@@ -80,6 +80,22 @@
     }
   },
   {
+    "name": "Alpha-Video",
+    "icon": "https://alpha-video.andrewstech.me/img/logo.svg",
+    "type": "app",
+    "data": {
+      "type": "IFrame",
+      "url": "https://alpha-video.andrewstech.me",
+      "gallery": [
+        "https://raw.githubusercontent.com/unofficial-skills/alpha-video/gh-pages/img/YouTube_Logo_2017.svg",
+        "https://raw.githubusercontent.com/unofficial-skills/alpha-video/gh-pages/img/Echo_Show.svg",
+        "https://alpha-video.andrewstech.me/img/python-logo.svg"
+      ],
+      "desc": "Allows you to stream YouTube to your Alexa device.",
+      "feat": "Stream Youtube on Alexa"
+    }
+  },
+  {
     "name": "Wikipedia",
     "icon": "https://www.wikipedia.org/portal/wikipedia.org/assets/img/Wikipedia-logo-v2.png",
     "type": "app",
