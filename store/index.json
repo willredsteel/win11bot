@@ -108,7 +108,8 @@
         "https://user-images.githubusercontent.com/79121360/112741096-3d56bd00-8f37-11eb-982d-1866764e642c.png"
       ],
       "desc": "Photopea is a  Photo Editor lets you edit photos, apply effects, filters, add text, crop or resize pictures, it can used for complex projects or just some photos",
-      "feat": "online foto editor easy to use great for anything you want"
+      "feat": "online foto editor easy to use great for anything you want",
+      "invert": true
     }
   },
   {
