@@ -65,7 +65,7 @@ customElements.define('x-frame-bypass', class extends HTMLIFrameElement {
 	}
 	fetchProxy (url, options, i) {
 		const proxy = [
-			'http://www.whateverorigin.org/get?url='
+			'https://win11react-proxy.herokuapp.com/'
 		]
 		return fetch(proxy[i] + url, options).then(res => {
 			if (!res.ok)
