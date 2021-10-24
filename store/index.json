@@ -48,7 +48,7 @@
     }
   },
   {
-    "name": "Paint",
+    "name": "JS Paint",
     "icon": "https://raw.githubusercontent.com/1j01/jspaint/master/images/icons/96x96.png",
     "type": "app",
     "data": {
