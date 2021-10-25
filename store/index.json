@@ -29,7 +29,8 @@
       "desc": "Smash Karts is a free io Multiplayer Kart Battle Arena game.\nIt is a three-dimensional multiplayer kart racing game. To win, you must drive your go-kart, pick up weaponry, and blow up other karts.",
       "feat": "Drive fast\nFire rockets\nMake big explosions"
     }
-  },{
+  },
+ {
     "name": "Krunker",
     "icon": "https://krunker.io/img/newp.png",
     "type": "game",
@@ -45,6 +46,25 @@
       ],
       "desc": "Krunker.io is a fast-paced pixelated first-person shooter.\nIn this browser game, players drop into a pixelated world and fight against other players from around the world",
       "feat": "Shooter Video Game\nBrowser game\nCasual game\nFree to Play"
+    }
+  },
+ 
+ {
+    "name": "Venge",
+    "icon": "https://venge.io/favicon-96x96.png",
+    "type": "game",
+    "data": {
+      "type": "IFrame",
+      "url": "https://venge.io/",
+      "invert": true,
+      "gallery": [
+        "https://images.crazygames.com/venge-io/20200822084809/venge-io-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+        "https://store-images.s-microsoft.com/image/apps.32319.13850149352717353.64fe5a9b-6264-4e33-9f7c-ca3337ddfe7e.6a702557-cb44-45b1-b415-58af9b7c71af?mode=scale&q=90&h=1080&w=1920",
+        "https://store-images.s-microsoft.com/image/apps.39675.13850149352717353.64fe5a9b-6264-4e33-9f7c-ca3337ddfe7e.7ff6a76c-630a-4b2d-b86f-9cbd3953c853?w=672&h=378&q=80&mode=letterbox&background=%23FFE4E4E4&format=jpg",
+        "https://pbs.twimg.com/media/E_XY7o8XEAknkKu.jpg"
+      ],
+      "desc": "Venge is an objective-based first-person shooter. Every match is an intense unique experience with the ability cards that you can get in the game.",
+      "feat": " Fast matches\nOnline community\nFirst person shoter"
     }
   },
   {
