@@ -166,5 +166,22 @@
          "desc":"The Cube is a 3D rubik's puzzle game created by Tronic247. You can now have fun with it.",
          "feat":"3D Cube game"
       }
+   },
+   {
+      "name":"Othello",
+      "icon":"https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/org.gnome.Reversi.png",
+      "type":"game",
+      "data":{
+         "type":"IFrame",
+         "url":"https://othello.blueedge.me",
+         "gallery":[
+            "https://raw.githubusercontent.com/blueedgetechno/othello/master/img/view.png",
+            "https://play-lh.googleusercontent.com/InYKAUUjV_I4TJLmmPBi1ystF55XJiQQ6tJiAJdcKkUl3OEdPjKo9P2ioceicWID3oU",
+            "https://www.johnadams.co.uk/wp-content/uploads/2016/07/Othello__0001_9690_Othello_Product_2.png",
+            "https://www.coolmathgames.com/sites/default/files/styles/blog_node_image/public/2020-07/how%20to%20play%20reversi%20thumb.jpg"
+         ],
+         "desc":"Othello(Reversi) is a strategy board game for two players, played on an 8×8 uncheckered board. It was invented in 1883.",
+         "feat":"Board game"
+      }
    }
 ]
