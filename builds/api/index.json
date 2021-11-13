@@ -1,19 +1,19 @@
 {
-    "name":"v0.1.4",
+    "name":"v0.1.5",
     "notes":"darkmode2",
     "pub_date":"2021-11-13T19:25:57Z",
     "platforms": {
         "darwin": {
             "signature":"",
-            "url":"https://github.com/blueedgetechno/win11React/releases/download/win11inreact-v0.1.4/Win11inReact.app.tar.gz"
+            "url":"https://github.com/blueedgetechno/win11React/releases/download/win11inreact-v0.1.5/Win11inReact.app.tar.gz"
         },
         "linux": {
             "signature":"",
-            "url":"https://github.com/blueedgetechno/win11React/releases/download/win11inreact-v0.1.4/win11in-react_0.1.4_amd64.AppImage.tar.gz"
+            "url":"https://github.com/blueedgetechno/win11React/releases/download/win11inreact-v0.1.5/win11in-react_0.1.5_amd64.AppImage.tar.gz"
         },
         "win64": {
             "signature":"",
-            "url":"https://github.com/blueedgetechno/win11React/releases/download/win11inreact-v0.1.4/Win11inReact_0.1.4_x64.msi.zip"
+            "url":"https://github.com/blueedgetechno/win11React/releases/download/win11inreact-v0.1.5/Win11inReact_0.1.5_x64.msi.zip"
         }
     }
 }
