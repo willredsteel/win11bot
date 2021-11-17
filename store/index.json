@@ -21,7 +21,7 @@
     "type": "game",
     "data": {
       "type": "IFrame",
-      "url": "https://glebbahmutov.com/2048",
+      "url": "https://glebbahmutov.com/2048/",
       "gallery": [
         "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/2048_win.png/495px-2048_win.png",
         "https://i1.wp.com/itsfoss.com/wp-content/uploads/2018/07/play-2048-game-linux.jpeg",
