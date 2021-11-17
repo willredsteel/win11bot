@@ -16,6 +16,22 @@
       }
    },
    {
+    "name": "2048",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/2048_logo.svg/100px-2048_logo.svg.png",
+    "type": "game",
+    "data": {
+      "type": "IFrame",
+      "url": "https://glebbahmutov.com/2048",
+      "gallery": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/2048_win.png/495px-2048_win.png",
+        "https://i1.wp.com/itsfoss.com/wp-content/uploads/2018/07/play-2048-game-linux.jpeg",
+        "https://elgoog.im/2048/2048-game.png"
+      ],
+      "desc": "2048 is a single-player sliding tile puzzle video game written by Italian web developer Gabriele Cirulli and published on GitHub.",
+      "feat": "1. Single player game.\n2. Genre: Puzzle"
+    }
+   },
+   {
       "name":"Smash karts",
       "icon":"https://trefoilkingdom.com/uploads/games/42122/Smash-Karts.jpg",
       "type":"game",
@@ -31,7 +47,7 @@
          "desc":"Smash Karts is a free io Multiplayer Kart Battle Arena game.\nIt is a three-dimensional multiplayer kart racing game. To win, you must drive your go-kart, pick up weaponry, and blow up other karts.",
          "feat":"Drive fast\nFire rockets\nMake big explosions"
       }
-   },
+  },
    {
       "name":"Krunker",
       "icon":"https://krunker.io/img/newp.png",
