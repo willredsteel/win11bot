@@ -9,6 +9,16 @@ This Bot Account Runs the Deployment Preview for Windows 11 in react.
 
 For the store please visit: https://github.com/win11bot/win11bot/tree/main/store
 
+### To add your game/app 🎮
+
+#### Either
+
+#### 1. Create an Issue and follow the steps
+
+### or
+
+#### 2. Make a pull request by manually editing the store.json file
+
 Read the schema below before adding any game/app element in the store file
 ```js
 {
