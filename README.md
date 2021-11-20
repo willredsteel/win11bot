@@ -11,6 +11,8 @@ For the store please visit: https://github.com/win11bot/win11bot/tree/main/store
 
 ### To add your game/app 🎮
 
+First make sure they accept iframe, you can check by inserting the url in this [iframe checker](https://www.tinywebgallery.com/blog/advanced-iframe/free-iframe-checker)
+
 #### Either
 
 #### 1. Create an [Issue](https://github.com/win11bot/win11bot/issues/new/choose) and follow the steps
