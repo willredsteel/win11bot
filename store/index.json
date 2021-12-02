@@ -16,6 +16,23 @@
       }
    },
    {
+      "name":"DieBug",
+      "icon":"https://img.itch.zone/aW1nLzc1MjYzNjcucG5n/105x83%23/4Nr3ep.png",
+      "type":"game",
+      "data":{
+         "type":"IFrame",
+         "url":"https://v6p9d9t4.ssl.hwcdn.net/html/4867546/webglbuild/index.html",
+         "gallery":[
+            "https://img.itch.zone/aW1hZ2UvMTI4NDgzNy83NTY3NjMzLnBuZw==/original/yn5K69.png",
+            "https://img.itch.zone/aW1nLzc1MjYzNjcucG5n/315x250%23c/Onbnj0.png",
+            "https://img.itch.zone/aW1hZ2UvMTI4NDgzNy83NTY3NjM0LnBuZw==/original/heDnwK.png",
+            "https://img.itch.zone/aW1hZ2UvMTI4NDgzNy83NTY3NjM4LnBuZw==/original/5dZsnL.png"
+         ],
+         "desc":"The world of Christmas was a peaceful place. Until one day a meteor struck. From the meteor spawned strange alien nanites.\nSave the Christmas world by defeating the leader and source of the infestation.",
+         "feat":"WSAD to move\nSpacebar to shoot\nLeft Shift to dash\nM to open the minimap"
+      }
+   },
+   {
     "name": "2048",
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/2048_logo.svg/100px-2048_logo.svg.png",
     "type": "game",
