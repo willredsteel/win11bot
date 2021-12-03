@@ -1,0 +1,19 @@
+{
+    "name":"v0.1.6",
+    "notes":"bug fixes",
+    "pub_date":"2021-11-30T19:25:57Z",
+    "platforms": {
+        "darwin": {
+            "signature":"",
+            "url":"https://github.com/blueedgetechno/win11React/releases/download/win11inreact-v0.1.6/Win11inReact.app.tar.gz"
+        },
+        "linux": {
+            "signature":"",
+            "url":"https://github.com/blueedgetechno/win11React/releases/download/win11inreact-v0.1.6/win11in-react_0.1.6_amd64.AppImage.tar.gz"
+        },
+        "win64": {
+            "signature":"",
+            "url":"https://github.com/blueedgetechno/win11React/releases/download/win11inreact-v0.1.6/Win11inReact_0.1.6_x64.msi.zip"
+        }
+    }
+}
