@@ -33,6 +33,22 @@
       }
    },
    {
+      "name":"Shell Shockers",
+      "icon":"https://play-lh.googleusercontent.com/P-nde227L29s8w5U44kTPLiEnMEJUhJpEr4jL6tD6LV65Xz0JZtI4wEyFN-smsNrx-Q",
+      "type":"game",
+      "data":{
+         "type":"IFrame",
+         "url":"https://eggcombat.com/",
+         "gallery":[
+            "https://images.crazygames.com/shellshockersio/20211202050253/shellshockersio-cover",
+            "https://play-lh.googleusercontent.com/vL0-VAubTWhJs4buUsPBJmPPF3469eT45CdMIZZVEf54D-Ko_2uvxC4qZUD_LKuhnaw=w412-h220-rw",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeJNXXZ7sWn-5QK2_A5V9CHHaXR-fc6G7UBw&usqp=CAU"
+         ],
+         "desc":"3D multiplayer egg-based shooter.",
+         "feat":"Fried Eggs, Anyone?"
+      }
+   },
+   {
     "name": "2048",
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/2048_logo.svg/100px-2048_logo.svg.png",
     "type": "game",
