@@ -42,4 +42,6 @@ Read the schema below before adding any game/app element in the store file
   }
 ```
 
-add your game/app in the file (don't beautify the code, just add your game/app object) and make a pull request to get accepted
+add your game/app in the file (don't beautify the code, just add your game/app object) and make a pull request to get accepted.
+
+# STOP SUGGESTING ANDROID GAMES
