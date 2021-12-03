@@ -135,7 +135,7 @@
    },
    {
       "name":"Alpha Video",
-      "icon":"https://alpha-video.andrewstech.me/img/logo.svg",
+      "icon":"https://raw.githubusercontent.com/unofficial-skills/addons/main/alpha-video/logo.png",
       "type":"app",
       "data":{
          "type":"IFrame",
