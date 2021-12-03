@@ -4,7 +4,7 @@ on:
   pull_request:
 
 jobs:
-  test:
+  json:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -12,3 +12,16 @@ jobs:
         uses: limitusus/json-syntax-check@v1
         with:
           pattern: "\\.json$"
+          
+           
+  run-if-fail:
+    if: ${{ always() && (needs.json.result=='failure') }}
+    needs: [json]
+    runs-on: ubuntu-latest
+    steps:
+    - name: Comment PR
+      uses: unofficial-skills/actions-comment-pull-request@main
+      with:
+         message: |
+              ❌ Store Json file has failed verification 
+         GITHUB_TOKEN: ${{ secrets.BOT }}
