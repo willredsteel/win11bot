@@ -23,5 +23,5 @@ jobs:
       uses: unofficial-skills/actions-comment-pull-request@main
       with:
          message: |
-              ❌ Store Json file has failed verification 
+              ❌ Storing the JSON file has failed due to verification issues
          GITHUB_TOKEN: ${{ secrets.BOT }}

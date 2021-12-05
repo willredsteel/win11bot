@@ -21,4 +21,4 @@ jobs:
           issue-number: ${{ github.event.issue.number }}
           token: ${{ secrets.BOT }}
           body: |
-            Your request has been **DENIED.** :no_entry_sign: This may be an unsported website or one against our policys. :no_entry_sign:
+            Your request has been **DENIED.** :no_entry_sign: This may be an unsupported website (most likely the site does not support iFrame) or one that is against our policies. :no_entry_sign:
