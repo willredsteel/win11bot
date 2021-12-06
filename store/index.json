@@ -266,5 +266,22 @@
       "desc": "Paper.io 2 is a real-time multiplayer .io game where you have to capture as much territory as possible.\nPaint the map in your own color to take over the Paper.io world! Look out for other players vying to claim your space.",
       "feat": "Fight and capture"
     }
+  },
+  {
+    "name": "Flappy bird",
+    "icon": "https://upload.wikimedia.org/wikipedia/en/0/0a/Flappy_Bird_icon.png",
+    "type": "game",
+    "data": {
+      "type": "IFrame",
+      "url": "https://playcanv.as/p/2OlkUaxF",
+      "gallery": [
+        "https://static.keygames.com/2/113722/96298/672x448/flappybird-og.webp",
+        "https://s18798.pcdn.co/shannonhu/wp-content/uploads/sites/19057/2020/10/flappy-bird.jpg",
+        "https://blogs.manageengine.com/wp-content/uploads/2014/02/Flappy-Bird-Teaser.jpg",
+        "https://www.gamerroof.com/wp-content/uploads/2019/05/Flappy-Bird-Full-Version-Free-Download.jpg"
+      ],
+      "desc": "Flappy Bird is a game developed by Vietnamese video game artist and programmer Dong Nguyen, under his game development company .Gears. The game is a side-scroller where the player controls a bird, attempting to fly between columns of green pipes without hitting them.",
+      "feat": "fly, dodge, score"
+    }
   }
 ]
