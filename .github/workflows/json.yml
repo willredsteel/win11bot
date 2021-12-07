@@ -13,7 +13,21 @@ jobs:
         with:
           pattern: "\\.json$"
           
-           
+  auto:
+    runs-on: ubuntu-latest
+    steps:
+      - name: andrew
+        if: github.repository_owner == 'github.actor'
+        uses: alexwilson/enable-github-automerge-action@main
+        with:
+          github-token: "${{ secrets.BOT }}"
+          
+      - name: blue
+        if: blueedgetechno == 'github.actor'
+        uses: alexwilson/enable-github-automerge-action@main
+        with:
+          github-token: "${{ secrets.BOT }}"   
+  
   run-if-fail:
     if: ${{ always() && (needs.json.result=='failure') }}
     needs: [json]
