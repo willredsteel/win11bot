@@ -21,12 +21,15 @@ jobs:
         uses: alexwilson/enable-github-automerge-action@main
         with:
           github-token: "${{ secrets.BOT }}"
+        
           
       - name: blue
-        if: blueedgetechno == 'github.actor'
+        if: $BLUE == 'github.actor'
         uses: alexwilson/enable-github-automerge-action@main
         with:
-          github-token: "${{ secrets.BOT }}"   
+          github-token: "${{ secrets.BOT }}"
+        env:
+          BLUE: blueedgetechno
   
   run-if-fail:
     if: ${{ always() && (needs.json.result=='failure') }}
