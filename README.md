@@ -45,3 +45,8 @@ Read the schema below before adding any game/app element in the store file
 add your game/app in the file (don't beautify the code, just add your game/app object) and make a pull request to get accepted.
 
 # STOP SUGGESTING ANDROID GAMES
+
+## Contributors
+<a href="https://github.com/win11bot/win11bot/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=win11bot/win11bot" />
+</a>****
