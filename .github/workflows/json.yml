@@ -24,7 +24,7 @@ jobs:
         
           
       - name: blue
-        if: $BLUE == 'github.actor'
+        if: ${{ BLUE }} == 'github.actor'
         uses: alexwilson/enable-github-automerge-action@main
         with:
           github-token: "${{ secrets.BOT }}"
