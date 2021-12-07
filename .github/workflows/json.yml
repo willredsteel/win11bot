@@ -41,7 +41,11 @@ jobs:
         with:
           github-token: "${{ secrets.BOT }}"
         
-          
+      - name: blue
+        if: env.GIT_COMMIT_AUTHOR_NAME == 'blueedgetechno'
+        uses: alexwilson/enable-github-automerge-action@main
+        with:
+          github-token: "${{ secrets.BOT }}"   
 
   
   run-if-fail:
