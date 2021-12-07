@@ -29,7 +29,7 @@ jobs:
         with:
           github-token: "${{ secrets.BOT }}"
         env:
-          BLUE: blueedgetechno
+          BLUE: 'blueedgetechno'
   
   run-if-fail:
     if: ${{ always() && (needs.json.result=='failure') }}
