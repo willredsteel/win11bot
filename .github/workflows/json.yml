@@ -36,7 +36,7 @@ jobs:
           echo " - ${{ env.GIT_COMMIT_MESSAGE_BODY }}"  
         
       - name: andrew
-        if: env.GIT_COMMIT_AUTHOR == 'andrewstech'
+        if: GIT_COMMIT_AUTHOR_NAME == 'andrewstech'
         uses: alexwilson/enable-github-automerge-action@main
         with:
           github-token: "${{ secrets.BOT }}"
